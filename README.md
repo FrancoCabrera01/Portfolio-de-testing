@@ -4,7 +4,6 @@ Soy tester, además de un estudiante apasionado y en formación permanente del �
 
 
 ## Cursos
-Puedes listar aquí los cursos que creas relebantes destacar en testing y TI. Por ejemplo:
 * **Tester de Software - Jóvenes a Programar (230hs):**
   Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
   
@@ -13,13 +12,11 @@ Puedes listar aquí los cursos que creas relebantes destacar en testing y TI. Po
 
 
 ## Herramientas
-Puedes comentar algunas de las herramientas que manejas vinculadas al testing de software. Por ejemplo:
 * Testlink
 * Jira
 * MantisBT
 
 ## Libros
-Puedes comentar algunos libros que has leído, que suman a tu formación en Testing y TI. Por ejemplo:
 * Introducción a las Pruebas de Sistemas de Información - Federico Toledo
 
 ## Mi trabajo
